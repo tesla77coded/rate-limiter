@@ -75,7 +75,7 @@ for i in {1..6}; do curl -i http://localhost:3000/api/shorten; echo; done
 
 ## 🔗 Integration Example
 
-This rate limiter is used in my **URL Shortener project** with redis implementation.:
+This rate limiter is used in my **URL Shortener project** with **Redis** implementation.:
 
 👉 [URL Shortener Repository](https://github.com/tesla77coded/url-shortner.git)
 
